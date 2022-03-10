@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+flyctl deploy --image docker.io/miniflux/miniflux:latest
